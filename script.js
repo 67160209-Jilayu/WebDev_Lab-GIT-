@@ -1,3 +1,3 @@
-document.querySelector('#helloBtn').addEventListener('click', () => {
-  document.querySelector('#status').textContent = 'Hello from GitHub Pages!';
+document.getElementById("helloBtn").addEventListener("click", function () {
+  alert("Hello! IM JILAYU Hello form Git Pages");
 });
